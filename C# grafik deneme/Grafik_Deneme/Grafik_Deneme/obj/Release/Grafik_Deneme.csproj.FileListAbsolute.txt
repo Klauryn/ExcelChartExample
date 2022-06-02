@@ -1,0 +1,9 @@
+C:\Users\Hidrometa\Desktop\Ozan\C# grafik deneme\Grafik_Deneme\Grafik_Deneme\bin\Release\Grafik_Deneme.exe.config
+C:\Users\Hidrometa\Desktop\Ozan\C# grafik deneme\Grafik_Deneme\Grafik_Deneme\bin\Release\Grafik_Deneme.exe
+C:\Users\Hidrometa\Desktop\Ozan\C# grafik deneme\Grafik_Deneme\Grafik_Deneme\bin\Release\Grafik_Deneme.pdb
+C:\Users\Hidrometa\Desktop\Ozan\C# grafik deneme\Grafik_Deneme\Grafik_Deneme\obj\Release\Grafik_Deneme.Form1.resources
+C:\Users\Hidrometa\Desktop\Ozan\C# grafik deneme\Grafik_Deneme\Grafik_Deneme\obj\Release\Grafik_Deneme.Properties.Resources.resources
+C:\Users\Hidrometa\Desktop\Ozan\C# grafik deneme\Grafik_Deneme\Grafik_Deneme\obj\Release\Grafik_Deneme.csproj.GenerateResource.cache
+C:\Users\Hidrometa\Desktop\Ozan\C# grafik deneme\Grafik_Deneme\Grafik_Deneme\obj\Release\Grafik_Deneme.csproj.CoreCompileInputs.cache
+C:\Users\Hidrometa\Desktop\Ozan\C# grafik deneme\Grafik_Deneme\Grafik_Deneme\obj\Release\Grafik_Deneme.exe
+C:\Users\Hidrometa\Desktop\Ozan\C# grafik deneme\Grafik_Deneme\Grafik_Deneme\obj\Release\Grafik_Deneme.pdb
